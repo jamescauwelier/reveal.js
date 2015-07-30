@@ -1,0 +1,25 @@
+.reveal section {
+	text-shadow: 2px 2px #696969;
+}
+
+.reveal section h1,
+.reveal section h2 {
+	text-shadow: 2px 2px #333;
+}
+
+.reveal section img.clean {
+	background: none;
+	box-shadow: none;
+	background: transparent;
+	border: none;
+}
+
+.reveal section div.box {
+	background: rgba(51, 51, 51, 0.40); 
+	border: 1px solid #696969; 
+	padding: 15px;
+}
+
+.reveal a {
+	text-decoration: underline;
+}
